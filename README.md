@@ -1,6 +1,6 @@
-**To use:**
+**Ubuntu 20.04**
 
-Ubuntu 20.04
+**To use:**
 
 $ cd ~/catkin_ws/src
 
